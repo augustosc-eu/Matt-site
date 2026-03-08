@@ -1,63 +1,30 @@
-title: Matt Cowley
+title: Augusto Santa Cruz
 
 meta:
   description: |
-    Open-source Software Engineer by night at Alveus Sanctuary 🌎 + Node.js 💚 + cdnjs 🛠️
+    AI Stack Support Team Leader at DigitalOcean ☁️ + Cloud & AI/ML 🤖 + 15 years in IT 💻
 
   keywords:
-    - matt
-    - cowley
-    - matt cowley
-    - ipv4
-    - matt ipv4
-    - mattipv4
-    - matt ipv4 cowley
-    - matt (ipv4) cowley
-    - matt website
-    - matt ipv4 website
-    - ipv4 website
-    - matt site
-    - matt ipv4 site
-    - ipv4 site
-    - community
-    - community management
-    - community manager
-    - open source
-    - open-source
-    - open source engineer
-    - open-source engineer
-    - software engineer
-    - engineer
-    - web dev
-    - web development
-    - web developer
-    - frontend developer
-    - backend developer
-    - fullstack developer
-    - frontend engineer
-    - backend engineer
-    - fullstack engineer
-    # - theatre
-    # - theater
-    # - technical
-    # - technician
-    # - tech
-    # - theatre technician
-    # - theater technician
-    # - theatre tech
-    # - theater tech
+    - augusto
+    - santa cruz
+    - augusto santa cruz
+    - augustosc
+    - digitalocean
+    - cloud support
+    - ai ml support
+    - team leader
+    - support engineer
+    - cloud engineer
+    - technical support
+    - it professional
+    - munich
+    - germany
 
-  banner: https://assets.mattcowley.co.uk/header/header.png
-  icon: https://assets.mattcowley.co.uk/head/transp/head_t_g.png
   color: "#0069ff"
-  url: https://mattcowley.co.uk
-  twitter: "@MattIPv4"
+  url: https://augustosc.com
 
 google:
-  analytics: UA-113826252-1
-#  adsense:
-#    client: ca-pub-4266526051230566
-#    slot: 9114202102
+  analytics: ""
 
 main:
   - title: "What I do:"
@@ -65,105 +32,75 @@ main:
     web: true
     print: true
     items:
-      - title: Open-Source Maintainer @ Alveus Sanctuary 🌎
-        link: https://alveussanctuary.org
-      - title: Web Infrastructure Team @ Node.js 💚
-        link: https://nodejs.org
-      - title: Maintainer of cdnjs.com @ Cloudflare 🛠️
-        link: https://cdnjs.com
-      - title: Growth Engineer @ Grafana Labs 📈
-        link: https://grafana.com
+      - title: AI Stack Support Team Leader @ DigitalOcean ☁️
+        link: https://digitalocean.com
+      - title: Senior Cloud Support Engineer @ Paperspace 🖥️
+        link: https://www.paperspace.com
 
   - title: "Who I am:"
     size: h3
     web: true
     print: false
     items:
-      - title: 24 y/o based near London, UK 📍
-      - title: Open-source software engineer ⌨️
-      - title: Online as @MattIPv4 👀
+      - title: 38 y/o based in Munich, Germany 📍
+      - title: IT professional with 15+ years of experience ⌨️
+      - title: Online as @augustosc 👀
 
   - title: "What I'm interested in:"
     web: true
     print: true
     size: h3
     items:
-      - title: Software Engineering, Full-stack Development (TypeScript, Node.js, React, Vue) 🖥
-      - title: Open-Source Advocacy, Community Management, Developer Relations 🥑
-      - title: Live Production, Live Broadcasting (Livestreaming, Radio, Theatre) 🎙
-      - title: Stage Management, Production Electrics, Lighting 💡
+      - title: Cloud Infrastructure, AI/ML Support, Internal Tooling (Retool, SQL, REST APIs) 🖥
+      - title: Team Leadership, Technical Mentoring, Customer Relations 🤝
+      - title: Music Production, Reading, Technology & AI 🎵
 
-  - title: "Education:"
+  - title: "Experience:"
     web: false
     print: true
     size: h3
     items:
-      - title: BSc Computing; 1st Class Honours @ University of Buckingham _(2020 - 2021; 2-year course)_ 🎓
-      - title: AAB in Computer Science, Maths & Business Studies at A Level _(2012 - 2019)_ 📜
-
-  - title: "Recognition:"
-    web: false
-    print: true
-    size: h3
-    items:
-      - title: OpenUK's 2022 New Year's Honours List Honouree 🏅
-        link: https://openuk.uk/2022honourslist
+      - title: Cloud Support Team Lead AI/ML @ DigitalOcean _(Mar 2024 – Present)_ ☁️
+      - title: Senior Cloud Support Engineer @ Paperspace _(Jul 2023 – Present)_ 🖥️
+      - title: Modernization Director @ Municipalidad de Mar Chiquita _(Aug 2018 – Dec 2020)_ 🏛️
 
   - title: "Location:"
     web: false
     print: true
     size: h3
     items:
-      - title: Beaconsfield, Buckinghamshire, United Kingdom 📍
-      - title: Approximately 30 minutes outside central London 🚇
+      - title: Munich, Bavaria, Germany 📍
+      - title: Remote worker 🌍
 
 rail: []
 
 contact:
-  email: me@mattcowley.co.uk
+  email: hello@augustosc.com
   links:
-    - title: "v4.fyi/**twitter**"
-      username: "@MattIPv4"
-      url: https://v4.fyi/twitter
+    - title: "github.com/**augustosc-eu**"
+      username: "@augustosc-eu"
+      url: https://github.com/augustosc-eu
 
-    - title: "v4.fyi/**github**"
-      username: "@MattIPv4"
-      url: https://v4.fyi/github
-
-    - title: "v4.fyi/**discord**"
-      username: "@mattipv4"
-      url: https://v4.fyi/discord
-
-    - title: "v4.fyi/**sponsors**"
-      username: "@MattIPv4"
-      url: https://v4.fyi/sponsors
-
-    - title: "v4.fyi/**bluesky**"
-      username: "@v4.wtf"
-      url: https://v4.fyi/bluesky
-
-    - title: "v4.fyi/**mastodon**"
-      username: "@MattIPv4@hachyderm.io"
-      url: https://v4.fyi/mastodon
+    - title: "linkedin.com/in/**augustosc**"
+      username: "Augusto Santa Cruz"
+      url: https://www.linkedin.com/in/augustosc/
 
 footer:
-  title: "TODO: Put a proper footer here"
-  subtitle: © Matt Cowley {{YEAR}}
+  title: Augusto Santa Cruz
+  subtitle: © Augusto Santa Cruz {{YEAR}}
   items:
     - links:
         - title: Home
           url: /
-        - title: Playlists
-          url: /playlists
         - title: Resume
           url: /resume
     - links:
-        - title: Twitter
-          url: https://v4.fyi/twitter
         - title: GitHub
-          url: https://v4.fyi/github
+          url: https://github.com/augustosc-eu
+        - title: LinkedIn
+          url: https://www.linkedin.com/in/augustosc/
         - title: Email
-          url: mailto:me@mattcowley.co.uk
+          url: mailto:hello@augustosc.com
     - links:
         - title: Open-source on GitHub
-          url: https://github.com/MattIPv4/Personal-Site
+          url: https://github.com/augustosc-eu

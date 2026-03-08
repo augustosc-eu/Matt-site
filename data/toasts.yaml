@@ -1,47 +1,15 @@
-- content: 👋 Did you know this site and many of my other projects are open-source on my GitHub?
-  button: View GitHub Profile
-  link: https://github.com/MattIPv4
+- content: 👋 Interested in cloud infrastructure, AI/ML support, or just want to connect?
+  button: View my LinkedIn
+  link: https://www.linkedin.com/in/augustosc/
 
-- content: 👀 Want to look at the source code for this site or many of my other projects?
-  button: View my GitHub Profile
-  link: https://github.com/MattIPv4
+- content: 👀 Want to see what I've been building or contributing to?
+  button: View my GitHub
+  link: https://github.com/augustosc-eu
 
-- content: 👋 Want to know more about my life and each day? I tweet far too much about everything.
-  button: Follow my Twitter
-  link: https://twitter.com/MattIPv4
+- content: ☁️ Curious about my work in cloud support and AI/ML at DigitalOcean?
+  button: Check out DigitalOcean
+  link: https://digitalocean.com
 
-- content: 👀 Interested in how my day is going and what I'm doing in life?
-  button: Follow me on Twitter
-  link: https://twitter.com/MattIPv4
-
-- content: 🤔 Curious about what the current thing is that's on my mind or that I'm working on?
-  button: Get the latest on my Twitter
-  link: https://twitter.com/MattIPv4
-
-- content: 🤖 Use Discord and want to run DNS lookups from in your own Discord server?
-  button: Get the 1.1.1.1 Bot
-  link: https://dns-over-discord.v4.wtf
-
-- content: 🤖 Did you know you can now perform DNS lookups from Discord chat?
-  button: Get the 1.1.1.1 Bot
-  link: https://dns-over-discord.v4.wtf
-
-#- content: ⚙️ Need a quick and secure way to add CSS or JS libraries to your website?
-#  button: Try out cdnjs
-#  link: https://cdnjs.com
-
-- content: 🦅 Interested in wildlife conservation, education and helping species heal?
-  button: Check out Alveus Sanctuary
-  link: https://www.alveussanctuary.org/
-
-- content: 🦅 Curious about the intersection of streaming and wildlife conservation?
-  button: Check out Alveus Sanctuary
-  link: https://www.alveussanctuary.org/
-
-#- content: 🤖 Looking for a utility bot for your Discord that provides logging, moderation and more?
-#  button: Try out Restarter v3
-#  link: https://restarter.mattcowley.co.uk
-
-#- content: 🤖 In need of automatic channel reactions for Discord, or reaction roles?
-#  button: Check out Restarter v3
-#  link: https://restarter.mattcowley.co.uk
+- content: 🤖 Interested in how Retool can streamline your support team's workflows?
+  button: View my LinkedIn
+  link: https://www.linkedin.com/in/augustosc/

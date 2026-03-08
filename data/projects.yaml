@@ -4,13 +4,11 @@
 #  print: true
 #  tags:
 #    - Thing
-#    - Thing
 #  dates:
 #    start: Thing
 #    end: ~
 #  headline: Thing
 #  links:
-#    - Thing
 #    - Thing
 #  image:
 #    file: Thing
@@ -18,51 +16,17 @@
 #  desc: |
 #    Thing
 
-- title: Grafana Labs
-  role: Growth Engineer
-  web: true
-  print: true
-  tags:
-    - Engineering
-  dates:
-    start: February 2025
-    end: ~
-  headline: Grafana is the open source analytics & monitoring solution for every database.
-  links:
-    - https://grafana.com
-    - https://github.com/grafana
-  image:
-    file: grafana
-    position: center
-  desc: |
-    * Collaborating with the Growth product managers and the other engineers on the Growth team to plan, develop,
-    launch, and track experiments to improve the Grafana Cloud onboarding experience. Building new features and
-    messaging to get data flowing for users quicker and demonstrate value to drive paid plan upgrades.
-
-    * Supporting teams across Grafana in adopting OpenFeature as our new feature flag management system, including
-    writing internal documentation and best practices for using OpenFeature. Submitting improvements and fixes upstream
-    to the open-source OpenFeature projects to solve for novel use cases arising from Grafana's plugin architecture.
-    
-    * Working with the team to overhaul the internal developer experience for Growth-owned code bases. Improving the
-    development process from easier local setup to improved CI in pull requests with ephemeral previews of the changes,
-    consolidating legacy code bases into a single React-based Grafana plugin.
-
-    * Building an in-house customer cohort system to allow for targeted messaging and experimentation throughout the
-    Grafana Cloud experience, replacing a previous third-party system that was expensive and often blocked by browser
-    extensions.
-
 - title: DigitalOcean
-  role: Senior Software Engineer II
+  role: Cloud Support Team Lead, AI/ML Division
   web: true
   print: true
   tags:
-    - Community
     - Engineering
-    - Open-source
+    - Leadership
   dates:
-    start: June 2019
-    end: October 2024
-  headline: Helping millions of developers easily build, test, manage, and scale applications of any size - faster than ever before.
+    start: March 2024
+    end: ~
+  headline: Helping millions of developers easily build, test, manage, and scale applications of any size — faster than ever before.
   links:
     - https://digitalocean.com
     - https://github.com/digitalocean
@@ -70,493 +34,119 @@
     file: digitalocean
     position: center
   desc: |
-    * Led the architecture, development and deployment of a new stack for the marketing (WWW) + community websites, with
-    a static Next.js client for reliability and Node.js microservices for interactivity. Built an in-house CMS for
-    streamlined content management and collaborated with the design team to create a TypeScript UI library for a new
-    design system, aligning code with Figma designs and rolled out across all marketing pages.
+    * Leading and mentoring a team of support engineers focused on AI/ML and Cloud Support, overseeing the troubleshooting and resolution of complex technical issues, and collaborating with cross-functional teams to identify and implement product improvements.
 
-    * Core contributor to [Hacktoberfest](https://hacktoberfest.com), leading the engineering and shaping event
-    mechanics/direction. Built a scalable API integrating with GitHub and GitLab to track PRs/MRs each year, processing
-    millions of daily events, and maintained an OpenAPI spec for seamless client-side integration. Managed the
-    [Hacktoberfest Discord](https://discord.gg/hacktoberfest) community of 70k members, and worked with the volunteer
-    moderation team to foster a welcoming and inclusive environment.
+    * Developing and refining a suite of internal tools using Retool, which significantly improved the team's ability to respond to customer inquiries and technical challenges.
 
-    * Maintained and championed open-source projects like [do-markdownit](https://github.com/digitalocean/do-markdownit)
-    and [NGINXConfig](https://www.digitalocean.com/community/tools/nginx), triaging issues, shipping new features and
-    fixes, and reviewing community contributions. Advocating for open-source initiatives and encouraging broader
-    adoption of open-source work within the company. 
+    * Driving the development and optimization of internal tools and processes, and playing a pivotal role in strategic planning and the execution of technology roadmaps.
 
-    * Part of the new Availability mission, focused on customer uptime. Improved the incident process, reducing
-    resolution times for customer-impacting issues and overhauling the post-incident review process. Collaborated with
-    the support team to refine public communications on the status page during incidents.
-
-- title: Alveus Sanctuary
-  role: Open-source Maintainer
+- title: Paperspace (a DigitalOcean Company)
+  role: Senior Cloud Support Engineer
   web: true
   print: true
   tags:
     - Engineering
-    - Open-source
+    - Cloud
   dates:
-    start: March 2023
+    start: July 2023
     end: ~
-  headline: Educating the world from the web, Alveus is a non-profit virtual education center following the journeys of non-releasable exotic ambassadors.
+  headline: A high-performance cloud platform for machine learning and data science, now part of DigitalOcean.
   links:
-    - https://www.alveussanctuary.org
-    - https://github.com/alveusgg
+    - https://www.paperspace.com
   image:
-    file: alveus
+    file: digitalocean
     position: center
   desc: |
-    * Working with the team at Alveus Sanctuary and other volunteer developers, rebuilding the entire website for the
-    non-profit from the ground up, replacing their legacy WordPress-based site that had many performance and
-    maintainability issues with a modern Next.js-based stack.
-    
-    * Creating an [open-source organization on GitHub](https://github.com/alveusgg) where the code for the site is
-    available for anyone to view and contribute to, as well as providing a centralized place for other open-source
-    projects related to Alveus to live, allowing a community of developers to come together to help the sanctuary.
-    
-    * Supporting the team at Alveus in launching new interactive features to engage with viewers of the
-    [Twitch livestreams](https://www.twitch.tv/alveussanctuary), such as giveaways and push notifications, allowing them
-    to grow the community, provide more education to the world, and raise more funds to continue operating.
+    * Addressing complex technical challenges and innovating solutions to elevate efficiency and customer satisfaction across a diverse tech stack including Zendesk, HubSpot, Citrix XenCenter, Windows Server, Linux, Jira, Confluence, and Sift.
 
-- title: Node.js
-  role: Web Infrastructure Team
+    * Developed Paperspace 360°, a Retool-based administrative application achieving a 99% reliability rate that significantly improved operational workflows and departmental productivity.
+
+    * Managing projects via Jira and Confluence while leveraging Sift for fraud detection and prevention to secure systems and protect client interests.
+
+- title: Municipalidad de Mar Chiquita
+  role: Modernization Director
+  web: true
+  print: true
+  tags:
+    - Leadership
+    - Engineering
+  dates:
+    start: August 2018
+    end: December 2020
+  headline: Driving the digital modernization of local government infrastructure and services for the city hall of Mar Chiquita, Argentina.
+  links:
+    - https://tasas.marchiquita.gob.ar
+  desc: |
+    * Formulated and directed modernization programs for the Municipalidad de Mar Chiquita, planning, organizing, and coordinating IT projects across city hall operations.
+
+    * Previously served as IT Administrator (Jan 2016 – Nov 2019), responsible for network troubleshooting, monitoring, deployments, and overall modernization of city hall IT infrastructure.
+
+    * Spearheaded key projects including SuiteRAFAM deployment, new payment gateway implementations, on-demand reporting, and Oracle SQL support.
+
+- title: IBM
+  role: Team Lead Backup & CSR Expert
+  web: true
+  print: false
+  tags:
+    - Leadership
+  dates:
+    start: September 2009
+    end: July 2012
+  headline: A global technology and consulting leader providing innovative solutions across cloud, AI, and enterprise services.
+  links:
+    - https://www.ibm.com
+  desc: |
+    * Served as Team Lead Backup (Jul 2011 – Jul 2012), acting as supervisor for GM's Dealer Business Center Service and New Vehicle Damage departments.
+
+    * Worked as CSR Expert (Sep 2009 – Jul 2011), providing technical assistance for GM's web applications and supporting warranty claims resolution.
+
+- title: PS360
+  role: Standalone Project
   web: true
   print: true
   tags:
     - Engineering
-    - Open-source
   dates:
-    start: August 2023
-    end: ~
-  headline: Run JavaScript Everywhere. Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+    start: July 2022
+    end: November 2022
+  headline: A low-code internal admin app built on Retool, giving support teams instant access to critical operational data across five integrated modules.
   links:
-    - https://nodejs.org
-    - https://github.com/nodejs
-  image:
-    file: nodejs
-    position: center
+    - https://www.paperspace.com
   desc: |
-    * Collaborating with all the open-source maintainers for the Node.js website and related services, including
-    the [Node.js website](https://github.com/nodejs/nodejs.org) itself as well as the
-    [Node.js release worker](https://github.com/nodejs/release-cloudflare-worker) that hosts Node.js downloads, to
-    improve the reliability of the services and ensure that the community can always access Node.js web resources.
+    * PS360 is a Retool-based low-code admin application featuring five modules — Team, User Profile, CORE Virtual Machines, Gradient, and Approvals — enabling support staff to access all relevant data and take action from anywhere.
 
-    * Handling communications on the [Node.js status page](https://status.nodejs.org) when issues do arise, ensuring
-    that the community is kept up-to-date with any issues that may be affecting the Node.js website and downloads.
+    * Designed with security and privacy as a priority; no external entities manage the data. Quick to set up with no training required, intuitive layout for minimal navigation overhead.
 
-- title: cdnjs / Cloudflare
-  role: Open-source Maintainer
-  web: true
-  print: true
-  tags:
-    - Community
-    - Engineering
-    - Open-source
-  dates:
-    start: October 2018
-    end: ~
-  headline: "The #1 free and open source CDN built to make life easier for developers."
-  links:
-    - https://cdnjs.com
-    - https://github.com/cdnjs
-  image:
-    file: cdnjs
-    position: center
-  desc: |
-    * Working with external contributors and the team at Cloudflare to maintain and ensure the reliability of service
-    for cdnjs, the world's largest public CDN. Responding to
-    [GitHub issues and pull requests](https://github.com/cdnjs/packages), adding new libraries to the CDN for developers
-    to use, and ensuring existing libraries remain up-to-date.
+    * Supports customizable user access levels ranging from individual contributors to full admins, with easy edits requiring no coding knowledge.
 
-    * Developing and maintaining the [cdnjs website](https://github.com/cdnjs/static-website),
-    [cdnjs API](https://github.com/cdnjs/api-server), and related tooling (such as the status page and metrics worker).
-
-- title: Jingle Jam
-  role: Open-source Maintainer
-  web: true
-  print: true
-  tags:
-    - Engineering
-    - Open-source
-  dates:
-    start: November 2023
-    end: ~
-  headline: The world's biggest gaming charity event - which has raised over £25 million for charity through their yearly fundraiser livestreams.
-  links:
-    - https://www.jinglejam.co.uk
-    - https://github.com/jinglejam
-  image:
-    file: jinglejam
-    position: center
-  desc: |
-    * Developing and maintaining an [open-source Discord bot](https://github.com/jinglejam/jinglebot) for the Jingle Jam
-    charity event, allowing viewers to easily check the current total raised and other statistics about the event, as
-    well as providing automated update announcements in the Jingle Jam server.
-
-    * Collaborating with the [Yogscast](https://www.yogscast.com) team to provide a similar set of statistics commands
-    for the [Twitch livestream](https://www.twitch.tv/yogscast) chat bot, also maintained as an
-    [open-source project](https://github.com/TheYogscast/Jaffa3Community).
-
-# - title: Restarter v3
-#   role: Standalone Project
-#   web: true
-#   print: false
-#   tags:
-#     - Engineering
-#   dates:
-#     start: September 2017
-#     end: ~
-#   headline: A utility bot for Discord servers, featuring automatic channel reactions, reaction roles, server logging, moderation, and so much more.
-#   links:
-#     - https://restarter.mattcowley.co.uk
-#   image:
-#     file: restarter
-#     position: center
-#   desc: |
-#     * Restarter is a [Discord](https://discord.com) bot that started with version 1 written in Python back in 2017, and
-#     is now in version 3 running Node.js with [Discord.js](https://discord.js.org), having grown to serve over 19,000
-#     Discord servers and communities with assorted utility and moderation functionality.
-
-#     * The bot runs in a distributed fashion across multiple processes, tied together through network calls and a shared
-#     database backing the whole system. Included in the bot is a wide range of utility functions designed to make
-#     running a Discord server easier, such as [ChannelReacts](https://restarter.mattcowley.co.uk/docs/#channelreacts),
-#     one of the most popular features of the bot, which allows server administrators to set the bot to automatically
-#     [add reactions](https://support.discord.com/hc/en-us/articles/360041139231-Adding-Emojis-and-Reactions) to new
-#     messages posted in a channel.
-
-#     * Alongside the utility functions, Restarter also provides server administrators and moderators with a strong set
-#     of [core moderation functions](https://restarter.mattcowley.co.uk/docs/#moderation), such as the ability to ban and
-#     kick users with a full [log of actions taken](https://restarter.mattcowley.co.uk/docs/#modlog), as well as features
-#     to [automatically remove messages](https://restarter.mattcowley.co.uk/docs/#filtering) containing Discord invites.
-
-- title: DNS over Discord (1.1.1.1)
+- title: Support Team Ticket Tagging
   role: Standalone Project
   web: true
   print: false
   tags:
     - Engineering
-    - Open-source
   dates:
-    start: August 2019
-    end: ~
-  headline: 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord.
+    start: June 2022
+    end: June 2022
+  headline: A hierarchical ticket tagging system designed to improve insight and reporting on the Support Team's daily issues.
   links:
-    - https://developers.cloudflare.com/1.1.1.1/other-ways-to-use-1.1.1.1/dns-over-discord
-    - https://dns-over-discord.v4.wtf/invite
-  image:
-    file: dns-over-discord
-    position: bottom
+    - https://digitalocean.com
   desc: |
-    * The 1.1.1.1 DNS over Discord bot allows anyone to perform DNS lookups directly in Discord, via the
-    [DNS over HTTPS 1.1.1.1 resolver](https://developers.cloudflare.com/1.1.1.1/dns-over-https).
+    * Collectively designed a new system to tag support tickets based on a hierarchical structure, enabling deeper insight and more accurate reporting about the Support Team's daily technical issues and trends.
 
-    * Includes support for performing whois lookups on IP addresses, domain names and ASNs via the
-    [web-whois package](https://www.npmjs.com/package/web-whois) thanks to the awesome
-    [rdap.cloud](https://rdap.cloud/), [whoisjs](https://whoisjs.com/) and [cfwho](https://cfwho.com/) services.
-
-    * The bot is written in JavaScript, and is [open-source on GitHub](https://github.com/MattIPv4/DNS-over-Discord) --
-    hosted via [Cloudflare Workers](https://workers.cloudflare.com/), responding to user-run commands with Discord's new
-    [Interactions (Slash Commands)](https://discord.com/developers/docs/interactions/slash-commands) feature.
-
-- title: js.org
-  role: Developer Relations
+- title: SuiteRAFAM Deployment
+  role: Standalone Project
   web: true
-  print: false
-  tags:
-    - Community
-    - Open-source
-  dates:
-    start: October 2018
-    end: ~
-  headline: js.org provides free js.org subdomains to JavaScript projects on GitHub for free through GitHub.
-  links:
-    - https://js.org
-    - https://github.com/js-org/js.org
-  image:
-    file: js-org
-    position: center
-  desc: |
-    * Directly responsible for triaging issues and reviewing pull requests made by third-party developers requesting
-    their custom js.org subdomains on the [js.org GitHub repository](https://github.com/js-org/js.org), ensuring they
-    meet our standards for being granted a free subdomain.
-
-    * Building out [automation to handle the annual cleanup](https://github.com/js-org/js.org-cleanup) of the js.org
-    active file to ensure all subdomains are valid, liaising with contributors on subdomains which have failed checks
-    to resolve any issues.
-
-    * Working with the js.org team and external contributors to continually improve the PR review process and domain
-    management systems through continuous integration (CI) and automation, removing the need for manual human
-    intervention where possible.
-
-#- title: JetBrains Community
-#  role: Community Manager
-#  web: true
-#  print: false
-#  tags:
-#    - Community
-#    - Open-source
-#  dates:
-#    start: April 2018
-#    end: ~
-#  headline: JetBrains Community is the Reddit and Discord community for all things JetBrains.
-#  links:
-#    - https://discord.gg/jetbrains
-#    - https://www.reddit.com/r/jetbrains/
-#  image:
-#    file: jetbrains-community
-#    position: center
-#  desc: |
-#    * Creating and managing a large community of JetBrains users and team members on
-#    [Discord](https://discord.com/invite/jetbrains) where community members can all chat and interact with each other in
-#    a safe environment, asking for and receiving help around JetBrains products and projects as well as having open
-#    discussion about almost anything.
-#
-#    * Working with the team at JetBrains to create [unique branding](https://github.com/JetBrains-Community/brand)
-#    in-line with overall JetBrains branding for the community and to ensure that our operations align with what they
-#    expect of a user group.
-#
-#    * Expanding the community beyond Discord into a
-#    [large network of sub-communities on Reddit](https://www.reddit.com/user/SupremeDesigner/m/jetbrains_community/),
-#    including [r/JetBrains](https://www.reddit.com/r/Jetbrains/) and [r/PyCharm](https://www.reddit.com/r/pycharm/).
-
-- title: Rythm
-  role: Web Developer
-  web: true
-  print: false
+  print: true
   tags:
     - Engineering
   dates:
-    start: March 2021
-    end: January 2022
-    other:
-      - start: November 2017
-        end: May 2018
-  headline: You, your friends, and some good tunes. Rythm makes it possible to listen to your favourite music with all your friends.
+    start: January 2018
+    end: April 2018
+  headline: Virtualized server and network deployment for the SuiteRAFAM financial management system at the Municipalidad de Mar Chiquita.
   links:
-    - https://rythm.fm
-  image:
-    file: rythm
-    position: center
+    - https://www.rafam.ec.gba.gov.ar
   desc: |
-    * Working with the team at Rythm to deliver a unique website experience for the over 20 million communities using
-    Rythm and exploring the features of the service, utilising [Nuxt.js](https://nuxtjs.org/) statically exported via a
-    custom CI pipeline and deployed to internal Kubernetes infrastructure for resiliency.
+    * Prepared the virtualized server and network environment for the SuiteRAFAM financial management system, in collaboration with the Municipal Financial and Systems Direction of Buenos Aires Province.
 
-    * Developing a fully client-side checkout experience for new customers, integrating directly with an in-house
-    payments API as well as with Chargebee and Stripe to provide a seamless flow for the user, allowing them to quickly
-    gain access to paid features of the service online.
-
-    * Previously, worked with a team of developers to build the original web dashboard for Rythm in PHP (Laravel),
-    integrating with the private API for the bot. Also, developing ancillary support bots for the team, such as support
-    automation and donations integrations, and assisting in providing technical customer support.
-
-# - title: Young Theatre
-#   role: Chief In-House Electrician
-#   web: false
-#   print: true
-#   tags:
-#     - Live Production
-#   dates:
-#     start: February 2014
-#     end: September 2019
-#   headline: A youth theatre group run by young people for young people.
-#   links:
-#     - https://www.youngtheatre.org.uk/
-#   image:
-#     file: youngtheatre-panto2016
-#     position: top
-#   desc: |
-#     * Part of the crew for over 30 productions, both in-house and visiting. Often the production/stage electrician
-#     during performances put on by the theatre company, responsible for practical effects and overall power distribution
-#     during productions.
-    
-#     * Responsible for continual maintenance of all electrical equipment within the theatre company, including lighting
-#     fixtures, power distribution, control equipment, etc.
-
-#     * Training new members of the crew on basics electrical safety, how to wire common connectors used in the theatre,
-#     and the basics of power and lighting in the venue.
-
-#     * Responsible for the installation, wiring and checking of any practical effects used in productions, ensuring they
-#     are safe to be used on stage.
-
-# - title: Blink FM
-#   role: Programme Controller
-#   web: false
-#   print: true
-#   tags:
-#     - Live Production
-#     - Live Broadcasting
-#   dates:
-#     start: October 2014
-#     end: September 2017
-#   headline: A local, youth-run radio station that broadcasts online to all and via FM radio to areas of South Bucks.
-#   links:
-#     - https://internetradiouk.com/blink-fm/
-#   image:
-#     file: blink-fm
-#     position: bottom
-#   desc: |
-#     * Responsible for coordinating with different presenters to establish an ongoing, flexible schedule for when shows
-#     are on air, ensuring that all content follows
-#     [Ofcom guidelines](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes/broadcast-code) and is safe to
-#     broadcast on air.
-
-#     * Assisting youth presenters in the studio to ensure that their shows run smoothly and are broadcast successfully,
-#     training and aiding them in using studio equipment including the Auto DJ and Myriad systems.
-
-#     * Working with the Blink team and the parent team at Wycombe Youth Action to continue to grow the radio station,
-#     including acquiring new and improved equipment, as well as developing a new website and graphics package for the
-#     station to boost the brand.
-
-#- title: PogChamp of the Day
-#  role: Standalone Project
-#  web: true
-#  print: false
-#  tags:
-#    - Engineering
-#    - Open-source
-#  dates:
-#    start: January 2021
-#    end: ~
-#  headline: Your new PogChamp is... View the new Twitch PogChamp and the history of the PogChamp of the Day at pogchamp.today
-#  links:
-#    - https://pogchamp.today/
-#    - https://github.com/MattIPv4/pogchamp
-#  image:
-#    file: pogchamp
-#    position: center
-#  desc: |
-#    * This web app reveals the new PogChamp emote for [Twitch](https://www.twitch.tv/), mirroring the style that Twitch
-#    used in many of their motion graphics, as well as documenting the history of the PogChamp of the Day.
-#
-#    * The entire application was built to be [open-source on GitHub](https://github.com/MattIPv4/pogchamp), relying on
-#    GitHub Actions and Pages to operate, with automation build using the
-#    [Twitch API](https://dev.twitch.tv/docs/v5/reference/chat#get-chat-emoticons-by-set) to detect new PogChamp emotes.
-
-#MagicCap:
-#  display: true
-#  type: "Web / Application"
-#  link: "https://magiccap.me"
-#  image: "magiccap"
-#  position: "center"
-#  tools:
-#    - WebStorm
-#    - JavaScript
-#    - NodeJS
-#    - VueJS
-#    - HTML
-#    - CSS3
-#    - TypeScript
-#    - Git
-#    - GitHub
-#  desc: |
-#    **MagicCap is an open-source, versatile image/GIF capture suite for Mac and Linux**. I originally started out as an
-#    [open-source contributor to MagicCap](https://github.com/MagicCap/MagicCap), making minor changes to the CSS behind
-#    the UI. However, I soon became heavily involved with the project, responsible for the majority of the user interface
-#    but also the user experience that it provided. I now also handle a large amount of organization administration,
-#    reviewing PRs and managing error reports.
-
-#PyDMXControl:
-#  display: true
-#  type: "Python"
-#  link: "https://github.com/MattIPv4/PyDMXControl"
-#  image: "pydmxcontrol"
-#  position: "center"
-#  tools:
-#    - PyCharm
-#    - Python
-#    - Git
-#    - GitHub
-#    - Photoshop
-#  desc: |
-#    Python has always been a language I love to work in and after setting up a load of DMX controlled lights in my
-#    office I needed a programatic way to control them all. With this in mind I found a basic Python usb wrapper for the
-#    uDMX device and built myself a custom, powerful Python module for controlling DMX fixtures using uDMX.
-
-#macOSNotifJS:
-#  display: false
-#  type: "Web / Plugin"
-#  link: "https://macosnotif.js.org/"
-#  image: "macosnotifjs"
-#  position: "top"
-#  tools:
-#    - WebStorm
-#    - JavaScript (ES6)
-#    - NodeJS
-#    - Webpack
-#    - Babel
-#    - HTML
-#    - CSS3
-#    - Git
-#    - GitHub
-#  desc: |
-#    Creating a custom Javascript plugin to render macOS style notifications on a webpage. Written in ES6 making use
-#    of webpack and babel to allow most browsers to run the plugin. Created as an open source project to allow any
-#    user online to contribute to the project.
-
-#BotBlock:
-#  display: false
-#  type: "Web / API"
-#  link: "https://botblock.org/"
-#  image: "botblock"
-#  position: "top"
-#  tools:
-#      - PhpStorm
-#      - HTML
-#      - JavaScript
-#      - CSS3
-#      - PHP
-#      - Sass
-#      - MySQL
-#      - Git
-#      - GitHub
-#      - Photoshop
-#  desc: |
-#    Making bots on Discord is fun but getting them out to the general users on Discord is rather hard. There are so
-#    many bot lists to publish your bot on that it becomes a headache, so I created BotBlock. BotBlock provides a
-#    single list of all known bot lists on Discord and a central API for bot developers to use.
-
-#Unreal Designs:
-#  display: false
-#  type: "Web / Business"
-#  link: "https://unreal-designs.co.uk/"
-#  image: "unreal-designs"
-#  position: "top"
-#  tools:
-#      - PHPStorm
-#      - HTML
-#      - JavaScript
-#      - CSS3
-#      - PHP
-#      - MySQL
-#      - Git
-#      - GitHub
-#      - Photoshop
-#  desc: |
-#    Unreal Designs is a business that I started up as a way to sell my web and graphic design skills to clients
-#    alongside a couple of my friends who also wanted to sell their skills. The business has been successful and
-#    long lasting, bringing in many clients for the team and building up our experience.
-
-#Discord Bots:
-#  display: false
-#  type: "Web / Application"
-#  link: "https://botz.mattcowley.co.uk/"
-#  image: "discord-bots"
-#  position: "top"
-#  tools:
-#      - PHPStorm
-#      - HTML
-#      - JavaScript
-#      - CSS3
-#      - PHP
-#      - MySQL
-#      - Git
-#      - GitHub
-#      - PyCharm
-#      - Python
-#  desc: |
-#    Producing bots to give other users a better experience on Discord resulted in my creation of a couple of music
-#    streaming bots based on the Discord.py library as well as some other utility bots. As part of this I produced
-#    a site for them all, featuring their homepages as well as a large backend for stats logging.
+    * Deployed and configured virtual servers to achieve maximum performance, stability, and security for the city hall's financial operations.
