@@ -76,6 +76,9 @@
   headline: Driving the digital modernization of local government infrastructure and services for the city hall of Mar Chiquita, Argentina.
   links:
     - https://tasas.marchiquita.gob.ar
+  image:
+    file: marchiquita
+    position: center
   desc: |
     * Formulated and directed modernization programs for the Municipalidad de Mar Chiquita, planning, organizing, and coordinating IT projects across city hall operations.
 
@@ -95,6 +98,9 @@
   headline: A global technology and consulting leader providing innovative solutions across cloud, AI, and enterprise services.
   links:
     - https://www.ibm.com
+  image:
+    file: ibm
+    position: center
   desc: |
     * Served as Team Lead Backup (Jul 2011 – Jul 2012), acting as supervisor for GM's Dealer Business Center Service and New Vehicle Damage departments.
 
@@ -112,6 +118,9 @@
   headline: A low-code internal admin app built on Retool, giving support teams instant access to critical operational data across five integrated modules.
   links:
     - https://www.paperspace.com
+  image:
+    file: ps360
+    position: center
   desc: |
     * PS360 is a Retool-based low-code admin application featuring five modules — Team, User Profile, CORE Virtual Machines, Gradient, and Approvals — enabling support staff to access all relevant data and take action from anywhere.
 
@@ -131,6 +140,9 @@
   headline: A hierarchical ticket tagging system designed to improve insight and reporting on the Support Team's daily issues.
   links:
     - https://digitalocean.com
+  image:
+    file: digitalocean
+    position: center
   desc: |
     * Collectively designed a new system to tag support tickets based on a hierarchical structure, enabling deeper insight and more accurate reporting about the Support Team's daily technical issues and trends.
 
@@ -146,6 +158,9 @@
   headline: Virtualized server and network deployment for the SuiteRAFAM financial management system at the Municipalidad de Mar Chiquita.
   links:
     - https://www.rafam.ec.gba.gov.ar
+  image:
+    file: suiterafam
+    position: center
   desc: |
     * Prepared the virtualized server and network environment for the SuiteRAFAM financial management system, in collaboration with the Municipal Financial and Systems Direction of Buenos Aires Province.
 
