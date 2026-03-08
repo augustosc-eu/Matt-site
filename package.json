@@ -11,6 +11,7 @@
     "format:scss": "npm run test:scss -- --fix",
     "format:js:": "npm run test:js -- --fix",
     "build": "run-s build:*",
+    "build:ci": "run-s build:bundle build:static build:images",
     "build:bundle": "node index.js",
     "build:static": "copyfiles --up 1 static/{*,**/*} build",
     "build:images": "node images/main.js",
